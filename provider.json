@@ -1,0 +1,10 @@
+{
+  "name": "ToonWorldForAll",
+  "description": "Watch free cartoons and anime from toonworldforall.me",
+  "language": "en",
+  "type": "anime",
+  "version": 1,
+  "url": "https://toonworldforall.me",
+  "className": "com.example.toonworld.ToonWorldProvider",
+  "repository": "https://github.com/puneetgaming402-code/toonworld-extension"
+}
