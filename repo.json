@@ -1,0 +1,12 @@
+{
+  "name": "ToonWorld Extension Repo",
+  "description": "CloudStream extension for ToonWorldForAll",
+  "manifestVersion": 1,
+  "pluginLists": [
+    {
+      "name": "ToonWorldForAll",
+      "url": "https://raw.githubusercontent.com/puneetgaming402-code/toonworld-extension/master/provider.json",
+      "version": 1
+    }
+  ]
+}
